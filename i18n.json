@@ -1,0 +1,12 @@
+{
+  "locales": ["co", "cl"],
+  "defaultLocale": "co",
+  "currentPagesDir": "pages_",
+  "finalPagesDir": "pages",
+  "localesPath": "locales",
+  "pages": {
+    "*": ["common"],
+    "/": ["home"],
+    "/about": ["about"]
+  }
+}
